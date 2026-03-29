@@ -1,1 +1,2 @@
-Kaplat is the Best course! 
+Kaplat is the Best course!
+This is the second line of the file.
